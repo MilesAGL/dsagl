@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A71FC317-A42A-40DF-BB71-BCC35CCE058F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AC07BCC1-71E7-4CB0-A554-C6E518066DA9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "927E2438-6098-46E0-940B-1C8270667604",
+    "height": 18,
+    "width": 83,
+    "x": 16,
+    "y": 23
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "694A4FAC-F461-4659-BE8A-25D0FC4D1F4D"
+    },
+    {
+      "class": "shapePath",
+      "id": "8CB2A201-BED8-46A2-AEC8-218D1CA04F5C"
+    }
+  ],
+  "name": "Group 6 Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D3811406-2A51-4E79-BFFF-7AE4F1D6FAFB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

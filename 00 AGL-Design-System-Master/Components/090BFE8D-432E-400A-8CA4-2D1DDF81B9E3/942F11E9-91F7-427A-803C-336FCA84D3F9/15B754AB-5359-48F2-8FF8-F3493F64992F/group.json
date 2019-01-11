@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "15B754AB-5359-48F2-8FF8-F3493F64992F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB953EB2-2917-48C9-B4E8-9E5C5B95B0D7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "67322128-8210-4198-95F3-0A9474E25520",
+    "height": 80,
+    "width": 127,
+    "x": 159.7261567516525,
+    "y": 596
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "2798FEAF-3F7B-4E08-95B2-BDCBB94231AF"
+    },
+    {
+      "class": "rectangle",
+      "id": "5BF649BC-EE9B-4399-AF72-ECE2D4EFBE21"
+    }
+  ],
+  "name": "Gas Gradient",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D203EA32-9DFE-47E7-8566-5F340E7D3F4A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

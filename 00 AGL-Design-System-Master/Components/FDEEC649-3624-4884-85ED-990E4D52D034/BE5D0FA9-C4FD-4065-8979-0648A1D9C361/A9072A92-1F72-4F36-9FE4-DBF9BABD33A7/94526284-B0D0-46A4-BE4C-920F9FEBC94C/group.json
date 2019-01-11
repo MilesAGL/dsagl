@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "94526284-B0D0-46A4-BE4C-920F9FEBC94C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "70F36A69-651A-47C7-ACFF-423DCF5F71B3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "66869CBB-5972-4F58-A15E-F55C72001508",
+    "height": 12,
+    "width": 39,
+    "x": 245,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "69C347A9-B130-48F4-828A-988DCA549057"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B5F9D371-A643-4943-A2A8-7B1449BFA9C2"
+    }
+  ],
+  "name": "Nav icon / Account / Inactive",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "74E4132B-7536-4D53-A78F-42776AE816A6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

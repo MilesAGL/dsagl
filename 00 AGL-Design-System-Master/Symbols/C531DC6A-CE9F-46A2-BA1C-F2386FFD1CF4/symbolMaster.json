@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8718EBA6-2B3C-42EC-A089-4A40C59E06ED",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 73,
+  "clippingMaskMode": 0,
+  "do_objectID": "C531DC6A-CE9F-46A2-BA1C-F2386FFD1CF4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DA1118A3-F60C-4889-8BAA-63CE0B2793FC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "86000426-D108-489D-AA8B-6A6DA839C88D",
+    "height": 36,
+    "width": 36,
+    "x": 4042,
+    "y": -459
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "48C36469-9C4A-4716-A386-9AECD86A4ECF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "006F3D83-10C9-4991-B578-A1E5F7F0FD98"
+    }
+  ],
+  "name": "Picker/Elements/Day/Selection_hover",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "61DE8D46-045F-4A37-B89D-948EC185316B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "52894616-0DCC-4323-B73C-D664CB2BA2E5",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "175913E1-8F91-4540-AD2C-229C728C448F",
+    "guides": [
+    ]
+  }
+}

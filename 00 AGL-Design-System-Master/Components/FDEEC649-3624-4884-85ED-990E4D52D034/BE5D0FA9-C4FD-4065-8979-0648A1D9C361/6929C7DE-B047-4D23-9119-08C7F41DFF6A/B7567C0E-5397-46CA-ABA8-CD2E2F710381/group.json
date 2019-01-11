@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B7567C0E-5397-46CA-ABA8-CD2E2F710381",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "61ADB200-AC70-4C40-8357-FFE5B85F99A9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE4420DB-7445-4025-8C6E-97D290565D5D",
+    "height": 12,
+    "width": 28,
+    "x": 126,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D742E947-5394-4C8C-8615-C15F5B15C9AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0FA4B846-81AD-4F64-92E2-9CE8B68E53B2"
+    }
+  ],
+  "name": "Nav icon / Billing / Inactive",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "931E0F7E-02E6-4AD8-8AC0-5AAADDC9C7FA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

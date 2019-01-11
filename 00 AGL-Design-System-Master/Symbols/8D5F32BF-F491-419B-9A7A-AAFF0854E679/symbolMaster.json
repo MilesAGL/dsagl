@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "03A5C214-4B21-472D-9243-18A7445B3280",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 316,
+  "clippingMaskMode": 0,
+  "do_objectID": "8D5F32BF-F491-419B-9A7A-AAFF0854E679",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "73641E09-A87D-47B1-B8B1-92EF2C35FFCD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B8931EA7-3ECF-4CB3-83CE-9990FDD1C5E3",
+    "height": 16,
+    "width": 16,
+    "x": 3770,
+    "y": 217
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F50BF6DA-F1E9-45A6-A0D6-BEE705B8A79F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A6DE0BB7-16A9-4FCC-8107-4E512527AE92"
+    }
+  ],
+  "name": "Field/Elements/Icon/Dropdown_active",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "93E6D26B-7D33-4D81-87A4-3D1C566133CA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B7FF7AF7-E6C2-4636-AECB-A67FA48138CA",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9A4A0DFC-1554-4E8E-A5E6-5E9108D47CBA",
+    "guides": [
+    ]
+  }
+}

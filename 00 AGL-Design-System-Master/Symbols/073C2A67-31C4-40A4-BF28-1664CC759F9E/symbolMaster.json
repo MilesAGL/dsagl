@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "1D70FFB1-EA32-40FA-ADCF-9B2D962A843A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 504,
+  "clippingMaskMode": 0,
+  "do_objectID": "073C2A67-31C4-40A4-BF28-1664CC759F9E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "379C993F-021B-4499-B557-A86027EA73D8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "53FA77B5-6B35-44B9-AF5C-90D4DE2FCF73",
+    "height": 16,
+    "width": 250,
+    "x": 3280,
+    "y": 463
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "43031775-C7F6-414C-95C8-F86C03E74351",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B58BD32E-00CE-44EF-BAEB-815A2F0954D9"
+    }
+  ],
+  "name": "Field/Elements/Hint/Success",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7ED68CF6-DC93-4B8E-93F5-4CB157219424",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AAF4ED72-2B83-4F82-80FF-B7355D9EE3B2",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C947471D-3E28-495C-9DAB-B36C293FDC8D",
+    "guides": [
+    ]
+  }
+}

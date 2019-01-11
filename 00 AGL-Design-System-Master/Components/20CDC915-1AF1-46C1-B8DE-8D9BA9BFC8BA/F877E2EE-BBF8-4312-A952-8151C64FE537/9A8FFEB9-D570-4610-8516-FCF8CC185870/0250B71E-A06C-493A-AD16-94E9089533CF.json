@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0250B71E-A06C-493A-AD16-94E9089533CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "870FDB59-B6E9-48A3-B800-B628A809AD4B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F5B288DC-D36D-4556-85E5-D3052F89EFED",
+    "height": 22,
+    "width": 335.9999999999993,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Label",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1545667E-71FF-453A-9DFA-72FF88B95F6F",
+      "overrideName": "1CD420E5-E858-4B93-8545-783A579A3A2E_stringValue",
+      "value": "Invalid Password"
+    }
+  ],
+  "resizingConstraint": 43,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "45D250C1-DF06-4234-B624-10712D0F2BA6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D6C2E6EF-958B-4E4F-82E6-1270D2F04DBA",
+  "verticalSpacing": 0
+}

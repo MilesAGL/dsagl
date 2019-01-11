@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EBC73B7C-1305-4ED1-BAE0-C63C5C620F80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "98C4F513-E54C-4BCE-B31A-C11B6E1DD2F0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4BCD6719-E672-4F12-8604-F3639A356DBC",
+    "height": 104,
+    "width": 250,
+    "x": 1446,
+    "y": 536
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form-active Copy 27",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "302F2606-4D0F-4AAC-A6E6-8A8ECB870775",
+      "overrideName": "AC919A69-9E1D-4E5F-8C21-1BA221C69465_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D8A9DC3-4801-4503-A68F-400F952B94AB",
+      "overrideName": "F509C4E9-C24A-4DD5-A76B-B9987F84CA15_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F9913B0E-485A-431F-BEB6-FAC5C28C6A2D",
+      "overrideName": "7B7D85AD-5088-461B-BC55-6447ED38B6B5_symbolID",
+      "value": "B31002F7-61B2-4FE0-9CCB-9FA5462EEFD5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "037316F9-9DE7-4F44-BB52-17B22B9AD852",
+      "overrideName": "381484D1-DBA9-4C54-BC95-F93A361984BB_symbolID",
+      "value": "7D6B9A4F-F16E-4832-859B-299C8C71D79E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8353EAC-C699-4A70-B356-640DBC4F3DEC",
+      "overrideName": "62FCB34B-6AE6-4062-905D-1E21C5193BD1_symbolID",
+      "value": "EA38E6ED-8625-418A-9B3A-83A30CE8CD05"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A5E5AD8C-22E2-4ACD-B19D-3E2E11D78FEE",
+      "overrideName": "62FCB34B-6AE6-4062-905D-1E21C5193BD1/AF4A7062-2A59-4C1A-9398-2BC9E8672778_stringValue",
+      "value": "What is this?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6ACEE1B2-0BDB-4172-9745-4C81E27AAC01",
+      "overrideName": "381484D1-DBA9-4C54-BC95-F93A361984BB/D1090CF3-2306-4009-90D8-1A33B2FB9172_stringValue",
+      "value": "Medicare number"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B47A1E33-9A27-4427-8A32-32D685C6E480",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8042F0B0-61C3-4B29-9BC7-0E16FD464010",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1A4FAB81-1307-4BB1-9289-7169EEA67EAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2C03F70A-2126-48D4-AD42-4699DF0F1336",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "07EC94AE-5375-41BD-A3B6-D9997763F213",
+    "height": 19,
+    "width": 108,
+    "x": 27,
+    "y": 17
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "43AF6B2E-EDA9-4F58-9E02-ADFF8133D91D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0AEC189B-43E4-44D8-92EA-FA387AD44A6A"
+    }
+  ],
+  "name": "My account label",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BC2531BD-A116-4BB0-A914-152E0F06F388",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

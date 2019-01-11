@@ -1,0 +1,114 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F877E2EE-BBF8-4312-A952-8151C64FE537",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1104,
+    "width": 868,
+    "x": 3113,
+    "y": 64
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "675F30A0-2217-4848-A14B-2E24B7706778"
+    },
+    {
+      "class": "group",
+      "id": "2D4705E2-DCCE-40DA-809A-3AFEB937CE72"
+    },
+    {
+      "class": "group",
+      "id": "74F9C564-F87F-4C97-B8CB-A2154E08D536"
+    },
+    {
+      "class": "group",
+      "id": "F8D94136-F95C-4626-BCD7-463DF92F8C7F"
+    },
+    {
+      "class": "group",
+      "id": "32C0B915-C19F-4049-827F-E0FB20E4531B"
+    },
+    {
+      "class": "group",
+      "id": "8A41F162-F5C3-43E8-806E-32456FBFDA93"
+    },
+    {
+      "class": "group",
+      "id": "A6F54CFF-5C09-4068-94FD-494DDFC3330B"
+    },
+    {
+      "class": "group",
+      "id": "BB8139F1-07AC-4EF6-92A5-11FC35525166"
+    },
+    {
+      "class": "group",
+      "id": "C3212FF6-7931-4185-86B7-1237C79F4BC4"
+    },
+    {
+      "class": "group",
+      "id": "F44037F2-3E63-4442-8C6E-090CF652E242"
+    },
+    {
+      "class": "group",
+      "id": "4CCB0147-BE5E-4475-9E0B-2FA7683B2D3B"
+    },
+    {
+      "class": "group",
+      "id": "73E49F82-8306-4943-BEBA-CB2B5880C899"
+    },
+    {
+      "class": "group",
+      "id": "9A8FFEB9-D570-4610-8516-FCF8CC185870"
+    },
+    {
+      "class": "group",
+      "id": "B0A80C1C-8F43-4074-A043-8F46BB386D9C"
+    },
+    {
+      "class": "group",
+      "id": "894FE09B-AA09-4B66-867E-F285D88FA1FE"
+    },
+    {
+      "class": "group",
+      "id": "9880779F-A8A8-4383-A485-71B77F50A026"
+    },
+    {
+      "class": "group",
+      "id": "03116595-6E87-4A1A-93C2-9C79EDFEFFE7"
+    }
+  ],
+  "name": "Password, field hints, errors",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "099C32BC-3E8D-4AE6-91A4-7A476A2313A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB779470-FAA0-49D9-988F-6C9894DB4AA4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7313A34A-5BB1-448A-A6F8-0B003C5B2542",
+    "height": 24,
+    "width": 24,
+    "x": 448,
+    "y": 805
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Glyph / Bill / Outlined Copy 37",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3DC3551F-86FA-4FF6-B7D5-3550C3AC8E6F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "679EE052-46DD-4E31-9F21-A1FC28114D01",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "22B67771-7E99-47BD-A44C-1E3D3AADC8CB",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 602,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC313D9A-A29E-41DC-8750-037B95977D24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A620B31B-96BD-4C67-98F1-8FE8BCD693D0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C76F6886-2307-4B19-BDFA-8BE93A8F74FC",
+    "height": 16,
+    "width": 16,
+    "x": 3770,
+    "y": -363
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "67A7C529-F6DF-4425-B63A-8D8550619A04",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "21864779-BB5E-454B-930E-7BBCDF8064FE"
+    }
+  ],
+  "name": "Field/Elements/Icon/Show_on",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "08DCEFF0-0C38-45D5-B4B7-85A91DB4C8A4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "739D4751-48F8-42E5-8C07-30AC9232F43A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C85E1467-BA6C-4228-B811-41F25EF28687",
+    "guides": [
+    ]
+  }
+}

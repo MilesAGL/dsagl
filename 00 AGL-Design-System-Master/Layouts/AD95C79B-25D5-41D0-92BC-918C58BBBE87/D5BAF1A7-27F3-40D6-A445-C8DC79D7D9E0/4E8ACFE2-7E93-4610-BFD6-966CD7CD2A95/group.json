@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4E8ACFE2-7E93-4610-BFD6-966CD7CD2A95",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "649AB197-AA3C-4B58-B2A5-EABE3C3F8235",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "22158C8E-496B-4DC4-B61B-F7499103AE85",
+    "height": 21,
+    "width": 18,
+    "x": 26,
+    "y": 16
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "49E9FD91-B440-4573-AF09-FE633281FD56"
+    }
+  ],
+  "name": "Glyph / Bill / Outlined Copy 32",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "BCF5B951-4498-437A-9147-9A4337D9F488",
+      "opacity": 0.3272181919642857
+    },
+    "do_objectID": "D39E84EF-44B3-4123-B449-5A794A163A40",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

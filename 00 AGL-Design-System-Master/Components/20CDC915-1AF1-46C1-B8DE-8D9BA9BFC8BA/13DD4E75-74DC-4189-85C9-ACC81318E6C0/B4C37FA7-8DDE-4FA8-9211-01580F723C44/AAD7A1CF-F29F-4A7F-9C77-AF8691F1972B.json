@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AAD7A1CF-F29F-4A7F-9C77-AF8691F1972B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51622A3C-69AE-4C38-AC80-084EE7AC6986",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "310EFF93-6EFC-4003-B85A-EDB56049BEC5",
+    "height": 43,
+    "width": 400,
+    "x": 0,
+    "y": 22
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input text",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5242921A-4DCC-4D3F-80AA-60B6652B7A0F",
+      "overrideName": "630FC093-E4BB-4E8F-8EF1-1DA7EED2113F_stringValue",
+      "value": "This is an example of a flexible text field. It expands when dragged out from the bottom right corner."
+    }
+  ],
+  "resizingConstraint": 43,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "626B615C-69D5-4BDB-BBE8-9093B0DCAD57",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CE713664-86C1-45F2-96AE-3F67E8053590",
+  "verticalSpacing": 0
+}

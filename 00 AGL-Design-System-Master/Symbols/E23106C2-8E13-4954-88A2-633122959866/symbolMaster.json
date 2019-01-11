@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AD75A0E5-A948-4ED0-BA87-BA2D05807077",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 383,
+  "clippingMaskMode": 0,
+  "do_objectID": "E23106C2-8E13-4954-88A2-633122959866",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "829D0FF4-E074-4D7B-A201-E1CED66AB3A5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AA932495-B695-4EB8-BA69-EC87FF9202BD",
+    "height": 2,
+    "width": 250,
+    "x": 3280,
+    "y": 899
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "14191274-5C08-4202-BC2F-C0F6FAA1ED3F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3C0E5756-7FD9-42F4-A233-45E3C2AE663A"
+    }
+  ],
+  "name": "Field/Elements/Line/Success",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B0DBA6EE-FED8-4824-B29E-10BBACD8F51A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C324FE32-AE49-4AEA-8C15-B550D6A0D42B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B98FE02E-8804-44DB-A038-346E70C24216",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6382E505-EF31-4471-AF2F-938A179B719C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1985,
+  "clippingMaskMode": 0,
+  "do_objectID": "1C868B9E-258E-4DD3-B8C3-AC39F81283BC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B2911E9-7D75-4EFE-93AC-27A67AD3469B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "41C81051-270A-4F7F-884E-D1606CFD54E4",
+    "height": 48,
+    "width": 240,
+    "x": 1120,
+    "y": 145
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9AEA0E20-7183-44AC-9D7B-8BF578046138",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8A2A1257-B8E6-4906-9CAE-9CC3A450195B"
+    }
+  ],
+  "name": "Status - failed",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7FC7A3EF-7BAD-49FE-A5B7-9C7829ED9342",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EBB291C8-FFCD-412F-9DA9-A451BC9DD625",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9EC76B30-9F23-4DDF-B016-E81528F4818D",
+    "guides": [
+    ]
+  }
+}

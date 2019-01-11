@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C09B076D-E492-4770-A152-8039B5ED6C1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CE75F62D-8DA4-41E7-BC91-F34498AFE8EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B02B2B3C-6EC9-4D97-AB88-D4E9DF7D0F4A",
+    "height": 70,
+    "width": 120,
+    "x": 188,
+    "y": 202
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "059B640D-3BB3-4E0E-AA40-10158E22D706"
+    },
+    {
+      "class": "rectangle",
+      "id": "26F8D712-6FA1-471D-9CD8-6EE68F81C8C8"
+    },
+    {
+      "class": "text",
+      "id": "C5F9CC7A-2DBC-4BB3-B5B4-D72318DFE21E"
+    }
+  ],
+  "name": "Meh",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7157D705-A6E3-41D9-B5C0-5781544CF622",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

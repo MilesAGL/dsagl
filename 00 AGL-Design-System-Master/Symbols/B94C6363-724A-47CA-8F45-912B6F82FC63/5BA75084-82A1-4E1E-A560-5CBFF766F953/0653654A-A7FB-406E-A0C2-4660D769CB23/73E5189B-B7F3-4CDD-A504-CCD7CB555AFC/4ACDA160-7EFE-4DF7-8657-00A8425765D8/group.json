@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4ACDA160-7EFE-4DF7-8657-00A8425765D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 47,
+    "width": 57,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "81EED9D3-8EDD-47FE-8271-D3493238A63D"
+    },
+    {
+      "class": "shapePath",
+      "id": "74D5D521-BC2C-4E18-8BE4-F376503CA6CD"
+    },
+    {
+      "class": "shapePath",
+      "id": "F33ED0CA-5EAE-4EAF-9C92-9ABF5138B800"
+    },
+    {
+      "class": "shapePath",
+      "id": "7F8CDE28-F188-47E8-962F-BB98F3D9699F"
+    },
+    {
+      "class": "shapePath",
+      "id": "710C2050-67D4-45BA-BBBD-7C5474483961"
+    }
+  ],
+  "name": "hand",
+  "nameIsFixed": true,
+  "originalObjectID": "75CA0561-4995-4CF5-84D7-0EB29C1EB022",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

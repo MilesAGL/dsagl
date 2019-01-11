@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5F2D7AA7-4889-45EF-A418-7B3580E8E8BD",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 121,
+  "clippingMaskMode": 0,
+  "do_objectID": "DB51D277-BEBE-4D91-BF0F-406DEA1349BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "36F97F44-1D90-4A4B-A685-6F6F81AA444D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1DD667D0-E51D-4865-B30C-4BA9B9BFFA80",
+    "height": 32,
+    "width": 56,
+    "x": 3886,
+    "y": -463
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4903603E-BEA3-4193-ACB2-C51CB0D73B72",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7F646670-F76E-481F-B12E-66084C25C850"
+    }
+  ],
+  "name": "Controls/Slide_toggle/Big/Off",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "33833D5D-3D81-4637-A885-EDF9B3EBF3C3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "01FFE42A-9C14-4E52-A6FC-A6142D7C60DC",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3D0015C6-2E0C-45D8-A420-365B59BC6BF2",
+    "guides": [
+    ]
+  }
+}

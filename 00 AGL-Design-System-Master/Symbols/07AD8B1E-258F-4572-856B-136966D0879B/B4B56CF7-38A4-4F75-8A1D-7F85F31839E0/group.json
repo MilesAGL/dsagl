@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B4B56CF7-38A4-4F75-8A1D-7F85F31839E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A3544171-2A3B-4290-A061-C1B7C1919302",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "051293C6-7EC0-48BB-83A7-BFAE59950F13",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "BFC246F4-59EA-41DF-AE54-896760683D62"
+    },
+    {
+      "class": "oval",
+      "id": "70511460-923E-4C90-96A9-1CCC7AC81DFC"
+    },
+    {
+      "class": "oval",
+      "id": "69176CCD-88A1-4B62-B21A-AB3FBC3EB355"
+    }
+  ],
+  "name": "Radio_button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C7628ADB-19BE-4F7D-A1F8-E1F201D0593D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

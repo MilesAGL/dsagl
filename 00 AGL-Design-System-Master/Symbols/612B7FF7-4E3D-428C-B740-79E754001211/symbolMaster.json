@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CF1B9ADD-53B7-4978-875C-A48E77732130",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 390,
+  "clippingMaskMode": 0,
+  "do_objectID": "612B7FF7-4E3D-428C-B740-79E754001211",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "26BCEC04-E516-408B-A74C-5F78E4A61B57",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DFCE2707-8251-4399-BBBD-3411E5DFCBA4",
+    "height": 16,
+    "width": 16,
+    "x": 3770,
+    "y": -15
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6ACDDD60-16F4-4912-8278-19189FCF7CFA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DDF0DB6D-FC0B-4FE1-AE70-55C73003564B"
+    }
+  ],
+  "name": "Field/Elements/Icon/Calendar_active",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E4EC73FD-A9BA-4254-9192-2F7636C2E1FB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "95C04417-3EA8-4A12-8F3C-2C01BA681481",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1D9BCEA6-5766-4E0A-B024-EE58C75F625F",
+    "guides": [
+    ]
+  }
+}

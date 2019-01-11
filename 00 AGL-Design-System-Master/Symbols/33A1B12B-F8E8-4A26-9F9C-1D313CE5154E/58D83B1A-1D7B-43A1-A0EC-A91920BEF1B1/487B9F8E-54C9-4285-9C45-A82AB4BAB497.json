@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "487B9F8E-54C9-4285-9C45-A82AB4BAB497",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "43552B74-0C45-4978-AEEF-E4B26BF77F6A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0AF15F8A-0746-4450-90D8-BE666733FE53",
+    "height": 28,
+    "width": 60,
+    "x": 46,
+    "y": 42
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Logo / AGL Header Mobile",
+  "nameIsFixed": false,
+  "originalObjectID": "AFB05EA9-F793-41E3-800D-9513B57780B7",
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C43CA57D-8592-4602-AB06-7DB4A1F62233",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0A3CC053-6A40-4BDC-A17D-9717411E690A",
+  "verticalSpacing": 0
+}

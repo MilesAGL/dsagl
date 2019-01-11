@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "76AF85C4-7BF3-4133-A1F1-356A87E90989",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "958B5A75-7E7D-4E44-ADB2-4A82175BD42A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E67C9A23-C71A-4634-9CA6-60DA623EF169",
+    "height": 104,
+    "width": 250,
+    "x": 1446,
+    "y": 133
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form-active Copy 26",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "302F2606-4D0F-4AAC-A6E6-8A8ECB870775",
+      "overrideName": "AC919A69-9E1D-4E5F-8C21-1BA221C69465_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "037316F9-9DE7-4F44-BB52-17B22B9AD852",
+      "overrideName": "381484D1-DBA9-4C54-BC95-F93A361984BB_symbolID",
+      "value": "C701B4E6-A51D-4E9B-9DD2-FB3570B40778"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8353EAC-C699-4A70-B356-640DBC4F3DEC",
+      "overrideName": "62FCB34B-6AE6-4062-905D-1E21C5193BD1_symbolID",
+      "value": "EA38E6ED-8625-418A-9B3A-83A30CE8CD05"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A5E5AD8C-22E2-4ACD-B19D-3E2E11D78FEE",
+      "overrideName": "62FCB34B-6AE6-4062-905D-1E21C5193BD1/AF4A7062-2A59-4C1A-9398-2BC9E8672778_stringValue",
+      "value": "What is this?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "03931D35-15A0-4F19-AE4C-6BC3724C0DF9",
+      "overrideName": "F509C4E9-C24A-4DD5-A76B-B9987F84CA15/9E359D0B-7918-4EF6-BE6C-D2D5FD96A06A_stringValue",
+      "value": "Medicare number"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4A249E5E-50EB-4BCE-8681-27EE365B68C2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8042F0B0-61C3-4B29-9BC7-0E16FD464010",
+  "verticalSpacing": 0
+}

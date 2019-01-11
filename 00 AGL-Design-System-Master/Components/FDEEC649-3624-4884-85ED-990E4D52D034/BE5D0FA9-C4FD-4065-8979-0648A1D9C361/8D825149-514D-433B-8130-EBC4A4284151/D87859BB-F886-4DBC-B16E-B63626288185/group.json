@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D87859BB-F886-4DBC-B16E-B63626288185",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "48F76D0A-9DAA-4FEA-B3EF-E0243E6CCF4A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EA24F599-A7EE-4013-9AD3-70A1CE2B5773",
+    "height": 791,
+    "width": 397,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AD6DEDD6-5645-4B82-B631-9EDE791C70E5"
+    },
+    {
+      "class": "group",
+      "id": "F4F04C87-8D6D-4788-BE39-AC2A239A4F24"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9F7FEBA6-93FD-4F09-8CB6-6992F72142EC"
+    },
+    {
+      "class": "group",
+      "id": "E2FB9E98-306F-425E-813F-8C4E44C0DB09"
+    },
+    {
+      "class": "group",
+      "id": "FB572342-4AD6-4FCD-9414-DA6FEA2C8067"
+    },
+    {
+      "class": "group",
+      "id": "4E0D23F6-B19C-4228-A611-E618FD7E8B23"
+    }
+  ],
+  "name": "iPhone X White",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5BDE15BE-FFC4-4917-863D-BA7B6537F597",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

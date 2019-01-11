@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "299B0450-20DF-46DE-A279-9C210BCFF935",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CCC7B8C6-C246-4A33-89EC-C4F8A153E097",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0E5BC275-2145-4C90-B3ED-E66368838DC9",
+    "height": 80,
+    "width": 400,
+    "x": 1,
+    "y": 1139
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form-active Copy 12",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2ED1D155-A1AA-4CFD-9EB3-8F74EE872A0C",
+      "overrideName": "EC171815-622F-43E1-AD40-6508282090CE_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FF5E8047-40D1-4F27-A761-05A0E25C749C",
+      "overrideName": "15B1FD56-4DCD-42E7-8431-35FDF24195CE_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "53C14EED-38CF-47A9-8313-F9F20EA98B3B",
+      "overrideName": "55A8D49F-E34A-498D-B78E-7D447A16FFD7_symbolID",
+      "value": "BB8F47A0-55E2-4CA3-B4CF-09FDF6AFBF9F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9B556443-1578-4272-A861-466AC418C867",
+      "overrideName": "141671BD-ED52-4677-917A-216A9FED36C5_symbolID",
+      "value": "8999826A-D660-428C-9A8A-E814F8C1D69C"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CF68F759-395A-4681-B6CB-07674350FB23",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "11F32B5C-7D71-463E-B0B3-3F893A80B6C2",
+  "verticalSpacing": 0
+}

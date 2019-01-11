@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5F49BA19-3F62-49F8-A31C-17B5EFDC1BEB",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 190,
+  "clippingMaskMode": 0,
+  "do_objectID": "59D853AD-DC4B-4CEA-B1F4-C8D9D2FC1169",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2BE7B751-1210-4D8A-AA47-51845A3B4F43",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "04D2EAC8-7347-413B-A746-CFFFDB3C770A",
+    "height": 24,
+    "width": 40,
+    "x": 3630,
+    "y": -471
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A07C1BAF-B16C-43E5-A3F7-23A58EE162D3",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5BFCCA1E-1186-442B-ADC7-C4A5C1CCEDE4"
+    }
+  ],
+  "name": "Controls/Slide_toggle/Small/Off",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CDCAC992-3313-4140-A62A-8536D0C2E009",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D77B466B-E7D4-4E96-991D-CADFC5955D00",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "728B5816-B631-4274-B6F4-A1A745E60A6F",
+    "guides": [
+    ]
+  }
+}

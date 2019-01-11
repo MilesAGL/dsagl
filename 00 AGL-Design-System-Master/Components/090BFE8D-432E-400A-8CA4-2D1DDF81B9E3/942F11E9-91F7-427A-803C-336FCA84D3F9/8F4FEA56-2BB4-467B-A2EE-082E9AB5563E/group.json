@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8F4FEA56-2BB4-467B-A2EE-082E9AB5563E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DF473DCC-8777-407A-9C45-7971FE1C4B38",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "23DF7621-699F-4A0C-88F9-687C48199FD8",
+    "height": 80,
+    "width": 127,
+    "x": 480.1180358829084,
+    "y": 596
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "79507D44-6A88-4F8E-B555-EE8BA531D758"
+    },
+    {
+      "class": "rectangle",
+      "id": "AB7D1513-2830-4121-8ED4-8419AE65F625"
+    }
+  ],
+  "name": "Aqua gradient",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F32C38B3-87CA-47FF-A502-B12608D0CA1B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

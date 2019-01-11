@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "62D21DD4-8274-4683-B364-5EBA479468D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0A727644-631D-4A43-8AD8-8F937A264129",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C759E8E8-7228-44CA-A723-FA57CA1B36B3",
+    "height": 80,
+    "width": 127,
+    "x": 320.3918791312559,
+    "y": 596
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "95502C7E-8795-48A7-951B-CE13386E2907"
+    },
+    {
+      "class": "rectangle",
+      "id": "E5C222CB-71E8-43D2-AB9E-E8A355AD33B6"
+    }
+  ],
+  "name": "Icon gradient",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F5BBF965-134F-49C8-96D2-591057E2BEF0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

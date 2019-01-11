@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "79239425-40A5-4592-8432-B130B717FBF3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3FBC2D5F-73E1-4FBB-A846-8A6AAF929C17",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4E870CB6-5847-4A60-B693-1FF8E0483DCE",
+    "height": 70,
+    "width": 120,
+    "x": 21,
+    "y": 202
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "778993A5-9B7B-43E8-90A3-E1CB81BA9D83"
+    },
+    {
+      "class": "text",
+      "id": "32D3654B-DA62-4959-BC73-BA9B7BE0A6EB"
+    }
+  ],
+  "name": "Ya",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B87F147E-B5EB-4BFB-8398-402CC564050E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E98BE6F2-52EE-470D-BE83-26C92F001CA4",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 560,
+  "clippingMaskMode": 0,
+  "do_objectID": "6D5A5783-1A28-4CED-8EA2-91355443D554",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C7BEA008-4C33-43BD-90AC-5C61DBCD8627",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4BB30F63-372C-4231-8800-ECCBFF48B69D",
+    "height": 22,
+    "width": 250,
+    "x": 3280,
+    "y": 1603
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "421CF359-C4F8-4ED0-B704-352735F2F1E1",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "81787D78-993B-4E33-9DA3-BE8BFE360568"
+    }
+  ],
+  "name": "Field/Elements/Label/Inactive",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4950F184-5C2A-4DA3-A782-E65318C5A852",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EEC36DA8-D2EB-4474-AB07-AB746E2C073E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F020038F-C02C-4A44-AB82-BA6F36D09C6B",
+    "guides": [
+    ]
+  }
+}

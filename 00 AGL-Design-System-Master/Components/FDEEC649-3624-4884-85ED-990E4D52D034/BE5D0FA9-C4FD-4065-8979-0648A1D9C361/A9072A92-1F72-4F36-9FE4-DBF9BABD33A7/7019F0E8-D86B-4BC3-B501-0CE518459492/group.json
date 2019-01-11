@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7019F0E8-D86B-4BC3-B501-0CE518459492",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B535871D-BCE2-4D9C-80A8-245743EC832A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9AE5C7D6-5CC8-45A6-B2BD-D5E22FAC8749",
+    "height": 12,
+    "width": 30,
+    "x": 0,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3DB5B3BA-9A2E-48B5-8039-8EDE20F86DD1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8978A540-E3A5-4296-8D27-49A7B2861291"
+    }
+  ],
+  "name": "Nav icon / Activity / Inactive",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "482F69D8-5F8F-484D-AB63-2951DE92B365",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

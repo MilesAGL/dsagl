@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "298DCCFA-3E4E-4E71-A126-0B5B6E24A9B1",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 396,
+  "clippingMaskMode": 0,
+  "do_objectID": "EE3C5ECD-3092-47CD-947B-941FAE4E68BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2B33BD41-1061-45E6-BA6B-273804E8F085",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B3FEE959-830A-4673-81E2-174E18BF2584",
+    "height": 2,
+    "width": 250,
+    "x": 3280,
+    "y": 1253
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "ED688FAB-B02A-4353-B645-50E5BFDB8EBA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "59581F16-D223-4B69-BCF3-18E09A9A5621"
+    }
+  ],
+  "name": "Field/Elements/Line/Error",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3ADC75AF-7478-4CDC-92C3-704D5EFFC331",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2EF25E0B-42F5-427F-A221-3CAFC0C9C63F",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "854741F0-EED7-4169-A54D-BD63982E1982",
+    "guides": [
+    ]
+  }
+}
