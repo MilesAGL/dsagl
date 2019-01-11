@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
@@ -143,6 +143,10 @@
     {
       "class": "text",
       "id": "A1FE160C-97C6-493D-8FF3-AD99E2A9F117"
+    },
+    {
+      "class": "text",
+      "id": "9D6E57F2-97D7-4C85-9A98-EF3DFCF17812"
     }
   ],
   "layout": {
