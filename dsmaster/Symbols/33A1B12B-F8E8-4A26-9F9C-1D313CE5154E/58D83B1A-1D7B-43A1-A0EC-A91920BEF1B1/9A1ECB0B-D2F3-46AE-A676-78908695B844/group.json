@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9A1ECB0B-D2F3-46AE-A676-78908695B844",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "612193FB-DA8B-4C2C-AD5E-958653BAE51A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "18774596-D7F0-4F06-B625-81EC8E53A289",
+    "height": 32,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9827311A-0B4A-4FFB-82FB-394C83026C4C"
+    },
+    {
+      "class": "rectangle",
+      "id": "AF4974CC-5B4C-4C60-92AF-B25B73F3CBA7"
+    },
+    {
+      "class": "rectangle",
+      "id": "DBD9E279-B814-4F67-B1A1-2CC6560D1847"
+    },
+    {
+      "class": "rectangle",
+      "id": "C0B43A75-7466-4A1F-B647-F09741493389"
+    },
+    {
+      "class": "rectangle",
+      "id": "25AED0F8-99CE-40D9-9C9D-954979968253"
+    },
+    {
+      "class": "rectangle",
+      "id": "B70691C4-C1E3-4B53-9509-AFF2D6FD6B50"
+    },
+    {
+      "class": "rectangle",
+      "id": "E81CA566-8AB9-43D3-B515-17101E3C7643"
+    },
+    {
+      "class": "rectangle",
+      "id": "6E2FFF8C-BA18-4FB7-99D3-5727FE692BD0"
+    },
+    {
+      "class": "rectangle",
+      "id": "752ED830-5D27-46E0-9825-75033B82F485"
+    }
+  ],
+  "name": "Mobile 360px 70 col 16 gutter",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C482563F-04AC-43A1-A64A-012E75512BE8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
