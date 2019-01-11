@@ -28,7 +28,7 @@
     "y": -210
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -44,8 +44,12 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "C81689E5-9A69-4DB8-AFAC-FB0FBC810BC9"
+    }
   ],
   "name": "Alerts",
   "nameIsFixed": true,
