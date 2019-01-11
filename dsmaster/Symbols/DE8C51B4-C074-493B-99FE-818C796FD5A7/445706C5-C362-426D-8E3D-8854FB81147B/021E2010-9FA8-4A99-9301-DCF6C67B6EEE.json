@@ -34,7 +34,7 @@
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": -9223372036854776000,
+  "resizingConstraint": 9223372036854776000,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

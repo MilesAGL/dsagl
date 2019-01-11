@@ -28,7 +28,7 @@
     "y": -210
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -44,8 +44,12 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "oval",
+      "id": "7A16AD5C-4B05-439C-A347-852D154E6A82"
+    }
   ],
   "name": "Alerts",
   "nameIsFixed": true,
