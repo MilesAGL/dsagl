@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2ED4085D-9F69-47A2-92FC-CA0AF831B0FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 467,
+    "width": 768,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "975025D8-BFA2-4F8C-A41B-A8AA94E8D21E"
+    },
+    {
+      "class": "shapePath",
+      "id": "BEA085C3-2261-464A-AE15-5195C0BC8DB5"
+    },
+    {
+      "class": "group",
+      "id": "6AD0ECAA-D649-466F-9810-119138210A22"
+    },
+    {
+      "class": "group",
+      "id": "359F003D-3861-4D9C-BE67-D222BD8232A6"
+    },
+    {
+      "class": "group",
+      "id": "ABD66A8C-0C00-464A-8E15-B5E6B6825E84"
+    },
+    {
+      "class": "group",
+      "id": "9E668147-E994-48A8-B6D6-359761FFD0CC"
+    },
+    {
+      "class": "group",
+      "id": "0B379F3F-2A9D-4BC5-B433-35CB2950B318"
+    },
+    {
+      "class": "group",
+      "id": "C6CEE0EB-E121-448B-94A3-7C38672D345A"
+    }
+  ],
+  "name": "Tablet",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

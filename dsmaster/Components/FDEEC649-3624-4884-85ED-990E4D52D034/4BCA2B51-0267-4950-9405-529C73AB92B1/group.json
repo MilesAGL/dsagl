@@ -1,0 +1,114 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4BCA2B51-0267-4950-9405-529C73AB92B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 768,
+    "x": 64,
+    "y": 562
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E28C2FCA-B2A4-4987-9DA4-EB062D76BA1A"
+    },
+    {
+      "class": "rectangle",
+      "id": "5BA31ADB-4F6B-40A4-AA26-6D9A81E3C909"
+    },
+    {
+      "class": "rectangle",
+      "id": "75812C2A-2EB5-4752-B373-CDA50872871B"
+    },
+    {
+      "class": "rectangle",
+      "id": "38D41BA9-6820-4905-90C0-E2C6447096AE"
+    },
+    {
+      "class": "rectangle",
+      "id": "D2A08C76-2FFF-44F2-BA00-9EE5C06DC2CE"
+    },
+    {
+      "class": "rectangle",
+      "id": "A24FDE3C-61F4-46D8-BB0E-E230CDE04F3B"
+    },
+    {
+      "class": "rectangle",
+      "id": "D0E11BA3-A535-4C18-AA6A-08FF342DBF35"
+    },
+    {
+      "class": "rectangle",
+      "id": "510FBA09-C1D3-4AB6-96CB-A1FC8A4D7096"
+    },
+    {
+      "class": "rectangle",
+      "id": "5A0C2DDA-57F2-4DA4-8EEA-B7C890F8184B"
+    },
+    {
+      "class": "rectangle",
+      "id": "1031ADD5-C186-40DF-A3AE-5E59E98B30F0"
+    },
+    {
+      "class": "rectangle",
+      "id": "3BC99914-7DC5-487B-B49C-E5F2F119FC9D"
+    },
+    {
+      "class": "rectangle",
+      "id": "4A891A35-757A-4947-9729-ED56369857B2"
+    },
+    {
+      "class": "rectangle",
+      "id": "D2E10652-65EC-4A83-AD37-17F38E379E94"
+    },
+    {
+      "class": "rectangle",
+      "id": "DCFF1F1F-021D-4434-9F83-16032588F8EB"
+    },
+    {
+      "class": "rectangle",
+      "id": "8C3F8E49-F121-4457-B51C-73378BC02E94"
+    },
+    {
+      "class": "rectangle",
+      "id": "7CEDE522-CBC3-4224-8C79-47A4BC521EB1"
+    },
+    {
+      "class": "rectangle",
+      "id": "A327BCCA-EC4E-469E-AE95-BB3E5600CD54"
+    }
+  ],
+  "name": "Tablet 768px 69 col 24 gutter",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

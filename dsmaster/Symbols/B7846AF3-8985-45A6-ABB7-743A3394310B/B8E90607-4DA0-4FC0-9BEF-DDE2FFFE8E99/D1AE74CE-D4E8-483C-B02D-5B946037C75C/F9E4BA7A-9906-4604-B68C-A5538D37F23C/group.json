@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F9E4BA7A-9906-4604-B68C-A5538D37F23C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 259,
+    "x": 0,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "FE72D6C1-258B-4FD9-B83A-6575F1A874F9"
+    },
+    {
+      "class": "text",
+      "id": "DC1D25A8-AE46-4AC4-B740-A7066CE8D075"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1F0A4982-1104-433B-A3E1-2328FE898CEA"
+    }
+  ],
+  "name": "Back",
+  "nameIsFixed": true,
+  "originalObjectID": "4432112A-172C-4B37-8020-412F702BE248",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
