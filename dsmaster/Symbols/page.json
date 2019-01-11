@@ -26,6 +26,8 @@
     "_class": "rulerData",
     "base": -227,
     "guides": [
+      7873,
+      7890
     ]
   },
   "includeInCloudUpload": true,
@@ -426,15 +428,15 @@
     },
     {
       "class": "symbolMaster",
-      "id": "61280089-B7B4-44EC-BAEF-59E423F2A88D"
+      "id": "EA60359C-8544-4E5F-82FB-172AC43FF210"
     },
     {
       "class": "symbolMaster",
-      "id": "D5459B4E-BFC6-4113-B083-A76936F33A1E"
+      "id": "B545AE38-7A65-41BC-B0FB-6799174C707B"
     },
     {
       "class": "symbolMaster",
-      "id": "33A1B12B-F8E8-4A26-9F9C-1D313CE5154E"
+      "id": "B7846AF3-8985-45A6-ABB7-743A3394310B"
     }
   ],
   "name": "Symbols",
